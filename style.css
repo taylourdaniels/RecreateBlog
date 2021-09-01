@@ -1,0 +1,36 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+div {
+    border: 20px solid #bdc3c7;
+    border-radius: 15px;
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+}
+
+h2 {
+    letter-spacing: 3.2px;
+    font-weight: bold;
+    font-size: 48px;
+    color: #3D3D3D;
+    text-align: left;
+}
+
+#date {
+    text-align: right;
+    color: #3498DB;
+}
+
+p {
+    text-align: right;
+}
+
+#little-break {
+    border: 5px solid #BDC3C7;
+}
+
+#big-break {
+    border: 10px solid #BDC3C7;
+}
